@@ -14,16 +14,11 @@
 
             <p> Product Name :
               <select required class="form-control"  v-model="blog.nroom">
-                      <option>ลั่นทม</option>
-                      <option>ลีลาวดี</option>
-                      <option>กุหลาบ</option>
-                      <option>กล้วยไม้</option>
-                      <option>อัญชัญ</option>
-                      <option>จามจุรี</option>
-                      <option>ชบา</option>
-                      <option>ลำดวน</option>
-                      <option>มะลิ</option>
-                      <option>พิกุล</option>
+                       <option>Watch Me! by Alex St-Gelais</option>
+                      <option>The Root of All Evil by Alex St-Gelais</option>
+                      <option>M Power by Skeletor 87-Key V3 </option>
+                      <option>Cotton Candy by Marius</option>
+                      <option>French Mac Old-style by Antilog</option>
               </select>
             </p>
 
